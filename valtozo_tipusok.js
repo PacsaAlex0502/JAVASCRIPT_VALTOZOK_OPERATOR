@@ -34,3 +34,14 @@ let person = {
     age: 39,
     isStudent: false
 }
+
+console.log(person);
+console.log(typeof person);
+console.log(person.name);
+console.log(person.age);
+console.log(person.isStudent);
+console.log(person.address);
+
+let xy;
+console.log(xy);
+console.log(typeof xy);
